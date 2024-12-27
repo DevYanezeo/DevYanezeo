@@ -1,14 +1,15 @@
 <h1 align="center">
-Hi there, I'm Eliseo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+Hi 👋, I'm Eliseo
 </h1>
 
 <h2 align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Eliseo+Yañez.;I'm+a+Computer+Engineering+Student.;I+love+Full+Stack+Development!)](https://git.io/typing-svg)
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Eliseo+Yañez.;I'm+a+Computer+Engineering+Student+at+USACH.;I+love+Full+Stack+Development!)](https://git.io/typing-svg)
 </h2>
 
-## Contribution Snake 
-![snake gif](https://github.com/DevYanezeo/DevYanezeo/blob/output/github-contribution-grid-snake.svg)
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
+---
 
 ## 👨🏻‍💻 About Me
 
@@ -19,7 +20,10 @@ Hi there, I'm Eliseo <img src="https://raw.githubusercontent.com/iampavangandhi/
 
 ---
 
+## Contribution Snake 
+![snake gif](https://github.com/DevYanezeo/DevYanezeo/blob/output/github-contribution-grid-snake.svg)
 
+---
 
 ## My Tech Stack and Tools
 
@@ -58,4 +62,3 @@ Hi there, I'm Eliseo <img src="https://raw.githubusercontent.com/iampavangandhi/
 
 ## 📫 Let's Connect
 - [LinkedIn: Eliseo Yañez](https://www.linkedin.com/in/eliseoyanez/)
-
