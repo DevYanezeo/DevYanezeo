@@ -7,7 +7,7 @@ Eliseo Yañez
 </h2>
 
 ## Contribution Snake 
-![snake gif](https://github.com/DevYanezeo/DevYanezeo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
 ## My Tech Stack and Tools
 
