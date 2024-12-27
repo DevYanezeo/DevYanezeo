@@ -1,15 +1,29 @@
 <h1 align="center">
-Hi 👋, I'm Eliseo
+Hi there, I'm Eliseo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
 
 <h2 align="center">
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Eliseo+Yañez.;I'm+a+Computer+Engineering+Student+at+USACH.;I+love+Full+Stack+Development!)](https://git.io/typing-svg)
 </h2>
+
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
+---
+
+## 👨🏻‍💻 About Me
+
+- 🎓 I’m a **Computer Engineering student at Universidad de Santiago (USACH)**.
+- 🛠️ I have **strong knowledge in computer networks and telecommunications**.
+- 🌟 I’m passionate about **Full Stack Development**, with a focus on **Frontend Development**.
+- 🚀 I’m constantly learning and enjoy expanding my technical skills.
+
+---
+
 ## Contribution Snake 
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DevYanezeo/DevYanezeo/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ## My Tech Stack and Tools
 
@@ -18,24 +32,23 @@ Hi 👋, I'm Eliseo
 <p>
   <img width='48px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
   <img width='48px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
-  <img width='48px' src='https://user-images.githubusercontent.com/76852813/172720095-d75caaaa-c8b8-497e-a1bf-54720da5f9ed.svg'>
-  <img width='48px' src='https://user-images.githubusercontent.com/76852813/172716937-4574740e-2d2e-4326-af3b-4a42bad058c1.svg'>
-  <img width='48px' src='https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg'>
+  <img width='48px' src='https://user-images.githubusercontent.com/76852813/172720095-d75caaaa-c8b8-497e-a1bf-54720da5f9ed.svg' alt="JavaScript">
+  <img width='48px' src='https://user-images.githubusercontent.com/76852813/172716937-4574740e-2d2e-4326-af3b-4a42bad058c1.svg' alt="Java">
+  <img width='48px' src='https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg' alt="Python">
 </p>
 
 ### Frameworks and Libraries
 
 <p>
-  <img width="48px" src="https://user-images.githubusercontent.com/76852813/172721192-a712983a-47d4-41a5-a1ed-abf4113cff93.png">
-  <img width="48px" src="https://user-images.githubusercontent.com/76852813/172721798-883b2b27-ef7b-42d4-a492-6c6cb6cb4ffe.svg">
-  <img width="48px" src="https://user-images.githubusercontent.com/76852813/172723432-50ba3455-48c4-4afd-8326-1ddf54c39833.png">
-  <img width="48px" src="https://user-images.githubusercontent.com/76852813/172723444-1c9a926d-802f-4ebe-aab6-bd6a117c6eba.png">
+  <img width="48px" src="https://user-images.githubusercontent.com/76852813/172721192-a712983a-47d4-41a5-a1ed-abf4113cff93.png" alt="React">
+  <img width="48px" src="https://user-images.githubusercontent.com/76852813/172721798-883b2b27-ef7b-42d4-a492-6c6cb6cb4ffe.svg" alt="Node.js">
+  <img width="48px" src="https://user-images.githubusercontent.com/76852813/172723432-50ba3455-48c4-4afd-8326-1ddf54c39833.png" alt="Spring Boot">
 </p>
 
 ### Software
 
 <p>
-  <img width="48px" src="https://user-images.githubusercontent.com/76852813/172722126-2495793f-c4f3-43cc-bfb2-14e1d6f4d3a2.svg">
+  <img width="48px" src="https://user-images.githubusercontent.com/76852813/172722126-2495793f-c4f3-43cc-bfb2-14e1d6f4d3a2.svg" alt="Git">
   <img width="48px" src="https://user-images.githubusercontent.com/76852813/172732353-d8b662eb-8f1c-453a-82f4-00132b440aaa.svg">
   <img width="48px" src="https://user-images.githubusercontent.com/76852813/172722224-2df3bb34-d501-4daf-aa6d-af8c18335202.svg">
   <img width="48px" src="https://user-images.githubusercontent.com/76852813/172722267-f6f30163-ec39-4d98-a106-7c91394f4c44.svg">
@@ -45,21 +58,7 @@ Hi 👋, I'm Eliseo
   <img width="48px" src="https://user-images.githubusercontent.com/76852813/172722833-c1dafe34-7340-4220-a115-81dce56b1746.svg">
 </p>
 
-### MISC
-
-<p>
-  <img width="48px" src="https://user-images.githubusercontent.com/76852813/172721998-708f82d2-e288-462e-a2fd-2ee471036151.svg">
-  <img width="48px" src="https://user-images.githubusercontent.com/76852813/172732112-5119f3f5-16f0-4ddb-aa32-1926cb9f56a8.svg">
-</p>
-
-## GitHub Stats
-
-|                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=DevYanezeo&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevYanezeo&langs_count=8&theme=algolia)
-  
-
-###### Some icons courtesy of [icons8](https://icons8.com/)
+---
 
 ## 📫 Let's Connect
 - [LinkedIn: Eliseo Yañez](https://www.linkedin.com/in/eliseoyanez/)
