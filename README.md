@@ -1,12 +1,12 @@
 <h1 align="center">
-Eliseo Yañez
+Hi 👋, I'm Eliseo
 </h1>
 
 <h2 align="center">
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Eliseo+Yañez.;I'm+a+Computer+Engineering+Student+at+USACH.;I+love+Full+Stack+Development!)](https://git.io/typing-svg)
 </h2>
-
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## Contribution Snake 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
@@ -64,6 +64,3 @@ Eliseo Yañez
 ## 📫 Let's Connect
 - [LinkedIn: Eliseo Yañez](https://www.linkedin.com/in/eliseoyanez/)
 
-------
-Credit: [Eliseo Yañez](https://github.com/DevYanezeo)  
-Last Edited on: 12/26/24
