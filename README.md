@@ -6,7 +6,8 @@ Hi 👋, I'm Eliseo
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Eliseo+Yañez.;I'm+a+Computer+Engineering+Student+at+USACH.;I+love+Full+Stack+Development!)](https://git.io/typing-svg)
 </h2>
-
+## Contribution Snake 
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -16,11 +17,6 @@ Hi 👋, I'm Eliseo
 - 🛠️ I have **strong knowledge in computer networks and telecommunications**.
 - 🌟 I’m passionate about **Full Stack Development**, with a focus on **Frontend Development**.
 - 🚀 I’m constantly learning and enjoy expanding my technical skills.
-
----
-
-## Contribution Snake 
-![snake gif](https://github.com/DevYanezeo/DevYanezeo/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
