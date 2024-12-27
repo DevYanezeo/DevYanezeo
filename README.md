@@ -7,7 +7,6 @@ Hi 👋, I'm Eliseo
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Eliseo+Yañez.;I'm+a+Computer+Engineering+Student+at+USACH.;I+love+Full+Stack+Development!)](https://git.io/typing-svg)
 </h2>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ---
 
